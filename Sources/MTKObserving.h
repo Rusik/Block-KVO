@@ -12,11 +12,3 @@
 
 /// Internal Implementation
 #import "MTKObserver.h"
-
-
-
-/// Utilities
-// For the cool `@keypath` syntax
-#import "keypath.h"
-// To avoid retain cycles
-#import "scope.h"
